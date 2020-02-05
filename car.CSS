@@ -1,0 +1,15 @@
+body{
+  background-color: black
+}
+h1{
+  text-align: center;
+  color: red;
+  font-family: fantasy;
+}
+h2{
+  font-family: sans-serif;
+  text-align: center;
+}
+ol{
+  font-family: monospace;
+}
